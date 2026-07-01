@@ -1,0 +1,618 @@
+canonical_identifier: bkk:krp/KR6q0527/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0527/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千山剩人禪師語錄
+  identifiers:
+    krp: KR6q0527
+    cbeta: J38nB407
+    cbeta_old_id: J38nB407
+    authorityid: CA0006027
+    json_key: JB407
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J38/J38nB407.xml
+    old_id: J38nB407
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0527_000-J.yaml, hash: 'sha256:8319b9d8e942b6bca0cec45993854f8fc7747a22b4d13e9fb2d5ce7229cb0174'}
+  - {seq: 1, filename: KR6q0527_001-J.yaml, hash: 'sha256:40442b1afdf58e8495da28bf51bf905cdea6840f5391f5b959712e287b735e61'}
+  - {seq: 2, filename: KR6q0527_002-J.yaml, hash: 'sha256:ebc3d4ecee97a0f0c84ef407ee5f7919c0ff563d20b8160784501a693216ec21'}
+  - {seq: 3, filename: KR6q0527_003-J.yaml, hash: 'sha256:f4e3fe98c35a40d81edb0dc4435df0d8ed789245bf6e77f480fcf84c95e595c1'}
+  - {seq: 4, filename: KR6q0527_004-J.yaml, hash: 'sha256:726789d7ec19a90aab71d556cbfa17273e2b3219cb2fba9ab972701806885afb'}
+  - {seq: 5, filename: KR6q0527_005-J.yaml, hash: 'sha256:1f5af12cefb6f36ab721abc91947f4ab0ccd3b87de74c4243f2bea273b3d99fa'}
+  - {seq: 6, filename: KR6q0527_006-J.yaml, hash: 'sha256:6150ff7205949d18b3d2610e9ca5385005711b1f4f9b6b240a848b60a0060c3f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0527_000-J.markers.yaml, hash: 'sha256:976e1a85566d340cd9f1889554715f8a47edbfe5e98c80362f4d6feaf1421225'}
+  - {seq: 1, role: markers, filename: assets/KR6q0527_001-J.markers.yaml, hash: 'sha256:52406ad89cf72867ad3a13a46ebf5ef7516e9e578e3cbc86407792a91a6c9672'}
+  - {seq: 2, role: markers, filename: assets/KR6q0527_002-J.markers.yaml, hash: 'sha256:31675000d40087d01dc4d3470d55e8216d770708684ab9fffcacb8d26bf97c46'}
+  - {seq: 3, role: markers, filename: assets/KR6q0527_003-J.markers.yaml, hash: 'sha256:ad0bc50579ac5a5ca19f233771ecc6a17fdabe0f65dd3e5174bbce6c7688227a'}
+  - {seq: 4, role: markers, filename: assets/KR6q0527_004-J.markers.yaml, hash: 'sha256:d2c50b8c8a12a7d282dec9b07cc5ffe0fa9dcb711cc77c4007c5357696137e8a'}
+  - {seq: 5, role: markers, filename: assets/KR6q0527_005-J.markers.yaml, hash: 'sha256:9278d06f3a5513b6ff41501dc38957a250e140f460be9a48b7fc2677de454cfd'}
+  - {seq: 6, role: markers, filename: assets/KR6q0527_006-J.markers.yaml, hash: 'sha256:f0884250d5a2a04336d7bd74ef7978623056429c8c12a394679aa586110b72ed'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0527_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 像　讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0527_J_000-mulu-2
+    span:
+    - front
+    - 99
+    - 99
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0527_J_000-mulu-3
+    span:
+    - front
+    - 99
+    - 99
+  label: 北里樵人序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0527_J_000-mulu-4
+    span:
+    - front
+    - 471
+    - 471
+  label: 木齋序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0527_J_000-mulu-5
+    span:
+    - front
+    - 790
+    - 790
+  label: 今辯序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0527_J_000-mulu-6
+    span:
+    - front
+    - 1496
+    - 1496
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0527_J_000-mulu-7
+    span:
+    - front
+    - 1546
+    - 1546
+  label: 請啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0527_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 12166
+  label: 千山剩人和尚語錄卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0527_J_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 上堂一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0527_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 13917
+  label: 千山剩人和尚語錄卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0527_J_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 上堂二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0527_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 8345
+  label: 千山剩人和尚語錄卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0527_J_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 小參一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0527_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 8666
+  label: 千山剩人和尚語錄卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0527_J_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 小參二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0527_J_005-juan-start
+    span:
+    - body
+    - 0
+    - 8799
+  label: 千山剩人和尚語錄卷之五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0527_J_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0527_J_005-mulu-2
+    span:
+    - body
+    - 6113
+    - 6113
+  label: 茶話
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0527_J_005-mulu-3
+    span:
+    - body
+    - 7170
+    - 7170
+  label: 問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-juan-start
+    span:
+    - body
+    - 0
+    - 12515
+  label: 千山剩人和尚語錄卷之六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-2
+    span:
+    - body
+    - 2527
+    - 2527
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-3
+    span:
+    - body
+    - 4292
+    - 4292
+  label: 偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-4
+    span:
+    - body
+    - 4293
+    - 4293
+  label: 陞座示諸子
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-5
+    span:
+    - body
+    - 4354
+    - 4354
+  label: 罷座示諸子
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-6
+    span:
+    - body
+    - 4415
+    - 4415
+  label: 藏主刻普濟錄成見寄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-7
+    span:
+    - body
+    - 4480
+    - 4480
+  label: 臘八日
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-8
+    span:
+    - body
+    - 4539
+    - 4539
+  label: 閱藏畢示同閱諸子
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-9
+    span:
+    - body
+    - 4603
+    - 4603
+  label: 十月八日重陞座
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-10
+    span:
+    - body
+    - 4666
+    - 4666
+  label: 至日罷座示諸子
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-11
+    span:
+    - body
+    - 4729
+    - 4729
+  label: 贈螺灣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-12
+    span:
+    - body
+    - 4788
+    - 4788
+  label: 贈祥光
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-13
+    span:
+    - body
+    - 4847
+    - 4847
+  label: 越方辭往南方行腳偈留
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-14
+    span:
+    - body
+    - 4885
+    - 4885
+  label: 贈彼岸
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-15
+    span:
+    - body
+    - 4916
+    - 4916
+  label: 南塔結制
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-16
+    span:
+    - body
+    - 4976
+    - 4976
+  label: 贈首山律主
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-17
+    span:
+    - body
+    - 5037
+    - 5037
+  label: 贈靜宇
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-18
+    span:
+    - body
+    - 5068
+    - 5068
+  label: 贈遇緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-19
+    span:
+    - body
+    - 5099
+    - 5099
+  label: 贈越方
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-20
+    span:
+    - body
+    - 5130
+    - 5130
+  label: 贈罄光
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-21
+    span:
+    - body
+    - 5161
+    - 5161
+  label: 贈壽績
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-22
+    span:
+    - body
+    - 5192
+    - 5192
+  label: 贈一真
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-23
+    span:
+    - body
+    - 5223
+    - 5223
+  label: 贈淨虛
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-24
+    span:
+    - body
+    - 5254
+    - 5254
+  label: 贈德光
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-25
+    span:
+    - body
+    - 5285
+    - 5285
+  label: 贈恒水
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-26
+    span:
+    - body
+    - 5316
+    - 5316
+  label: 贈光宇
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-27
+    span:
+    - body
+    - 5347
+    - 5347
+  label: 贈輝光
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-28
+    span:
+    - body
+    - 5378
+    - 5378
+  label: 贈明空
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-29
+    span:
+    - body
+    - 5409
+    - 5409
+  label: 送振宇
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-30
+    span:
+    - body
+    - 5440
+    - 5440
+  label: 寄淨玄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-31
+    span:
+    - body
+    - 5471
+    - 5471
+  label: 贈恥若
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-32
+    span:
+    - body
+    - 5502
+    - 5502
+  label: 問湛空病
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-33
+    span:
+    - body
+    - 5534
+    - 5534
+  label: 禮雪菴祖師塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-34
+    span:
+    - body
+    - 5568
+    - 5568
+  label: 十二時歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-35
+    span:
+    - body
+    - 6184
+    - 6184
+  label: 書
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-36
+    span:
+    - body
+    - 8678
+    - 8678
+  label: 重梓姓氏
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-37
+    span:
+    - body
+    - 8886
+    - 8886
+  label: 塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0527_J_006-mulu-38
+    span:
+    - body
+    - 10641
+    - 10641
+  label: 塔碑銘
+  type: mulu
+  level: 1
+hash: sha256:2ada972c677561e203050d67476edb0dcda65dceabbcb4b3897e0bbb9dea6d37
