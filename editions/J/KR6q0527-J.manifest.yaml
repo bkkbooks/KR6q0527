@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0527_000-J.yaml, hash: 'sha256:8319b9d8e942b6bca0cec45993854f8fc7747a22b4d13e9fb2d5ce7229cb0174'}
+  - {seq: 0, filename: KR6q0527_000-J.yaml, hash: 'sha256:714ab3c3d222011272375fffa8b1218dc4a76aaacace4ce9d811e8cb2435de42'}
   - {seq: 1, filename: KR6q0527_001-J.yaml, hash: 'sha256:40442b1afdf58e8495da28bf51bf905cdea6840f5391f5b959712e287b735e61'}
   - {seq: 2, filename: KR6q0527_002-J.yaml, hash: 'sha256:ebc3d4ecee97a0f0c84ef407ee5f7919c0ff563d20b8160784501a693216ec21'}
   - {seq: 3, filename: KR6q0527_003-J.yaml, hash: 'sha256:f4e3fe98c35a40d81edb0dc4435df0d8ed789245bf6e77f480fcf84c95e595c1'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6q0527_005-J.yaml, hash: 'sha256:1f5af12cefb6f36ab721abc91947f4ab0ccd3b87de74c4243f2bea273b3d99fa'}
   - {seq: 6, filename: KR6q0527_006-J.yaml, hash: 'sha256:6150ff7205949d18b3d2610e9ca5385005711b1f4f9b6b240a848b60a0060c3f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0527_000-J.markers.yaml, hash: 'sha256:976e1a85566d340cd9f1889554715f8a47edbfe5e98c80362f4d6feaf1421225'}
+  - {seq: 0, role: markers, filename: assets/KR6q0527_000-J.markers.yaml, hash: 'sha256:38ab77e1a4d6229bad16a1088c4bef42f26ff3e8037bf7275a003be1f44edc6b'}
   - {seq: 1, role: markers, filename: assets/KR6q0527_001-J.markers.yaml, hash: 'sha256:52406ad89cf72867ad3a13a46ebf5ef7516e9e578e3cbc86407792a91a6c9672'}
   - {seq: 2, role: markers, filename: assets/KR6q0527_002-J.markers.yaml, hash: 'sha256:31675000d40087d01dc4d3470d55e8216d770708684ab9fffcacb8d26bf97c46'}
   - {seq: 3, role: markers, filename: assets/KR6q0527_003-J.markers.yaml, hash: 'sha256:ad0bc50579ac5a5ca19f233771ecc6a17fdabe0f65dd3e5174bbce6c7688227a'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0527_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 像　讚
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0527_J_000-mulu-2
     span:
-    - front
+    - body
     - 99
     - 99
   label: 序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0527_J_000-mulu-3
     span:
-    - front
+    - body
     - 99
     - 99
   label: 北里樵人序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0527_J_000-mulu-4
     span:
-    - front
+    - body
     - 471
     - 471
   label: 木齋序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0527_J_000-mulu-5
     span:
-    - front
+    - body
     - 790
     - 790
   label: 今辯序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0527_J_000-mulu-6
     span:
-    - front
+    - body
     - 1496
     - 1496
   label: 目錄
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0527_J_000-mulu-7
     span:
-    - front
+    - body
     - 1546
     - 1546
   label: 請啟
@@ -615,4 +615,4 @@ table_of_contents:
   label: 塔碑銘
   type: mulu
   level: 1
-hash: sha256:2ada972c677561e203050d67476edb0dcda65dceabbcb4b3897e0bbb9dea6d37
+hash: sha256:0704972f3f524a5c37a2f2153974795d04dd89d2fa6a9495c3280b6f9e932fba
